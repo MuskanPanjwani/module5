@@ -6,3 +6,5 @@ This repository contains my solutions to the Module 5 Coding Assignments for the
 Assignment Links:
 - [Module 5 Assignment](http://bit.ly/1UWgPJ1) 
 
+Solution Links:
+-  https://muskanpanjwani.github.io/module5/
